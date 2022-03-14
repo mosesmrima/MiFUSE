@@ -17,7 +17,6 @@
 
 #include "params.h"
 #include "mifuseops.h"
-#include "log.h"
 /* Include this if you have both fuse2 and fuse3 installed */
 #include <fuse3/fuse.h>
 #include <sys/wait.h>
