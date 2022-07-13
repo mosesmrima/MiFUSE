@@ -1,7 +1,6 @@
 # MiFUSE
 
 MiFUSE is a minimal filesystem in user space built in C for hobbyists and minimalists.
-MiFUSE is part of my project for ALX Software engeeniring program.
 
 ## Supported Platforms
 
